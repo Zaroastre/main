@@ -109,8 +109,8 @@
   </mailingLists>
 
   <scm>
-    <connection>scm:git:https://github.com/Zaroastre/main</connection>
-    <developerConnection>scm:git:https://github.com/Zaroastre/main</developerConnection>
+    <connection>scm:git:git@github.com:Zaroastre/main.git</connection>
+    <developerConnection>scm:git:git@github.com:Zaroastre/main.git</developerConnection>
     <tag>HEAD</tag>
     <url>https://github.com/Zaroastre/main</url>
   </scm>
